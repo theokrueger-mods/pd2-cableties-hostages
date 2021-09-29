@@ -18,5 +18,13 @@
 			"hook_id" : "lib/tweak_data/playertweakdata",
 			"script_path" : "hooks/playertweakdata.lua"
 		}
-	]
+	],
+	"updates" : [
+	{
+		"identifier" : "CTH",
+		"host" : {
+			"meta" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json"
+		}
+	}
+]
 }
