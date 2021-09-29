@@ -54,7 +54,9 @@ Please submit localisations!
 
 ## Mirrors
 [Github](https://github.com/theokrueger-mods/pd2-cableties-hostages)
+
 [Gitlab](https://gitlab.com/theokrueger-mods/pd2-cableties-hostages)
+
 [ModWorkshop](https://modworkshop.net/mod/31101)
 
 ## Previews
