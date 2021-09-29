@@ -1,0 +1,43 @@
+{
+    "menu_id" : "cth_menu",
+    "parent_menu_id" : "blt_options",
+    "title" : "cth_title",
+	"description" : "cth_desc",
+    "callback" : "cth_save",
+    "items" : [
+		{
+			"type" : "divider",
+			"size" : 20
+		},
+        {
+            "type" : "toggle",
+            "id" : "cth_infiniteties",
+            "title" : "cth_infiniteties_name",
+            "description" : "cth_infiniteties_desc",
+			"callback" : "cth_upd",
+            "value" : "infiniteties",
+            "default_value" : true
+        },
+		{
+            "type" : "slider",
+            "id" : "cth_increasefollowers",
+            "title" : "cth_increasefollowers_name",
+            "description" : "cth_increasefollowers_desc",
+			"callback" : "cth_upd",
+            "value" : "increasefollowers",
+            "default_value" : 3,
+            "max" : 5,
+			"min" : 1,
+			"step" : 1
+        },
+		{
+            "type" : "toggle",
+            "id" : "cth_hidehud",
+            "title" : "cth_hidehud_name",
+            "description" : "cth_hidehud_desc",
+			"callback" : "cth_upd",
+            "value" : "infiniteties",
+            "default_value" : false
+        }
+    ]
+}
