@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2: 2021-09-30
+* Fix single character typo preventing settings from showing in menu
+
 ## v2.1: 2021-09-29
 * Fix a small issue where the mod doesn't work
 * Add new setting to sync ties to clients as 8 always

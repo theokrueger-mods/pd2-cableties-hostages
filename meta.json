@@ -1,8 +1,8 @@
 [
     {
         "ident" : "CTH",
-        "hash" : "ea638bf757fbbdf36a6fccf6c154ad564f47e291409040a4f0912320546b3afb",
+        "hash" : "5e91de2683bd09db2610582a665e66711ffe1eb1e21db0262863906afcc35279",
         "patchnotes_url" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/releases",
-        "download_url" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/releases/download/v2.1/cableties-and-hostages.zip"
+        "download_url" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/releases/download/v2.2/cableties-and-hostages.zip"
     }
 ]
