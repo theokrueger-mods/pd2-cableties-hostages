@@ -30,6 +30,6 @@ Hooks:Add(
 			end
 			CTH:savesettings()
 		end
-		MenuHelper:LoadFromJsonFile(CTH.path .. 'menus/mainmenu.json', CTH, CTH.Settings)
+		MenuHelper:LoadFromJsonFile(CTH.path .. 'menus/mainmenu.json', CTH, CTH.settings)
 	end
 )
