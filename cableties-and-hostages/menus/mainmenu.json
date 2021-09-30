@@ -18,6 +18,15 @@
             "value" : "infiniteties",
             "default_value" : true
         },
+        {
+            "type" : "toggle",
+            "id" : "cth_numsync",
+            "title" : "cth_numsync_name",
+            "description" : "cth_numsync_desc",
+			"callback" : "cth_upd",
+            "value" : "numsync",
+            "default_value" : false
+        },
 		{
             "type" : "slider",
             "id" : "cth_increasefollowers",
