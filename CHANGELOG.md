@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1: 2021-09-29
+* Fix a small issue where the mod doesn't work
+* Add new setting to sync ties to clients as 8 always
+
 ## v2.0: 2021-09-28
 * Complete rewrite, act as is this mod is new. Features auto-updates now.
 

@@ -3,7 +3,7 @@
 	"name" : "Cable Ties and Hostages",
 	"author" : "mercu",
 	"description" : "infinite cableties more following hostages",
-	"version" : "2.0",
+	"version" : "2.1",
 	"image" : "icon.png",
 	"hooks" : [
 		{
