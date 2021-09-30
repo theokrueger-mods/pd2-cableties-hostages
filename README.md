@@ -4,7 +4,7 @@
 
 This mod will give you access to infinite cable ties and allows you to have a greater number of following hostages. 
 
-This mod works as **host only** and will announce itself to those who connect to your lobby (can be disabled for friends-only or private games).
+This mod works as **host only**
 Restart heist for settings to take effect.
 
 ----
@@ -54,7 +54,9 @@ Please submit localisations!
 
 ## Mirrors
 [Github](https://github.com/theokrueger-mods/pd2-cableties-hostages)
+
 [Gitlab](https://gitlab.com/theokrueger-mods/pd2-cableties-hostages)
+
 [ModWorkshop](https://modworkshop.net/mod/31101)
 
 ## Previews
