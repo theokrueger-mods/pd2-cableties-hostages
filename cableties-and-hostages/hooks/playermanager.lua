@@ -3,18 +3,19 @@ if not _G.CTH then
 end
 
 -- clients always see you have 2 cableties
-if CTH.settings.cth_hidehud then
+if CTH.settings.cth_numsync then
 	local update_synced_cable_ties_to_peers_old = PlayerManager.update_synced_cable_ties_to_peers
 	function PlayerManager:update_synced_cable_ties_to_peers()
-		update_synced_cable_ties_to_peers_old(self, 2)
+		update_synced_cable_ties_to_peers_old(self, 8)
 	end
 end
 
--- always have infinite cabletie upgrade. this is more efficient than overriding the function where it uses cableties since that function is bloated and supergeneral.
+-- do not consume ties on usage
 if CTH.settings.cth_infiniteties then
-	local has_category_upgrade_old = PlayerManager.has_category_upgrade
-	function PlayerManager:has_category_upgrade(category, upgrade)
-		return has_category_upgrade_old(self, category, upgrade) or
-			(category == 'cable_tie' and upgrade == 'quantity_unlimited')
+	local remove_special_old = PlayerManager.remove_special
+	function PlayerManager:remove_special(name)
+		if self._equipment.specials[name] and not self._equipment.specials[name].is_cable_tie then
+			remove_special_old(self, name)
+		end
 	end
 end

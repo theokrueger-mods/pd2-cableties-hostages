@@ -3,6 +3,7 @@ _G.CTH = _G.CTH or {}
 -- default settings
 CTH.settings = {
 	['cth_infiniteties'] = true,
+	['cth_numsync'] = false,
 	['cth_hidehud'] = false,
 	['cth_increasefollowers'] = 3
 }
