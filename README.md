@@ -5,6 +5,7 @@
 This mod will give you access to infinite cable ties and allows you to have a greater number of following hostages. 
 
 This mod works as **host only**
+
 Restart heist for settings to take effect.
 
 ----
