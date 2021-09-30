@@ -15,7 +15,7 @@
             "title" : "cth_infiniteties_name",
             "description" : "cth_infiniteties_desc",
 			"callback" : "cth_upd",
-            "value" : "infiniteties",
+            "value" : "cth_infiniteties",
             "default_value" : true
         },
         {
@@ -24,7 +24,7 @@
             "title" : "cth_numsync_name",
             "description" : "cth_numsync_desc",
 			"callback" : "cth_upd",
-            "value" : "numsync",
+            "value" : "cth_numsync",
             "default_value" : false
         },
 		{
@@ -33,7 +33,7 @@
             "title" : "cth_increasefollowers_name",
             "description" : "cth_increasefollowers_desc",
 			"callback" : "cth_upd",
-            "value" : "increasefollowers",
+            "value" : "cth_increasefollowers",
             "default_value" : 3,
             "max" : 5,
 			"min" : 1,
@@ -45,7 +45,7 @@
             "title" : "cth_hidehud_name",
             "description" : "cth_hidehud_desc",
 			"callback" : "cth_upd",
-            "value" : "infiniteties",
+            "value" : "cth_hidehud",
             "default_value" : false
         }
     ]
