@@ -1,16 +1,16 @@
 {
-    "cth_title": "Cable Ties and Hostages",
-    "cth_desc": "Configure Cable Ties and Hostages Mod",
+        "cth_title": "Cable Ties and Hostages",
+        "cth_desc": "Configure Cable Ties and Hostages Mod",
 
-    "cth_infiniteties_name": "Infinite Cableties",
-    "cth_infiniteties_desc": "Enable having infinite cableties\nDoes not consume tie on use\nRequires Heist Restart",
+        "cth_infiniteties_name": "Infinite Cableties",
+        "cth_infiniteties_desc": "Enable having infinite cableties\nDoes not consume tie on use\nRequires Heist Restart",
 
-    "cth_numsync_name": "Sync as 8 ties",
-    "cth_numsync_desc": "Sync number of ties to clients as 8\nThe number of ties shown to clients is set to 2 or 6 normally\nRequires Heist Restart",
+        "cth_numsync_name": "Sync as 8 ties",
+        "cth_numsync_desc": "Sync number of ties to clients as 8\nThe number of ties shown to clients is set to 2 or 6 normally\nRequires Heist Restart",
 
-    "cth_increasefollowers_name": "Increase Following Hostages",
-    "cth_increasefollowers_desc": "Increases max following hostages\nWorks as HOST ONLY! Default:3\nRequires Heist Restart",
+        "cth_increasefollowers_name": "Increase Following Hostages",
+        "cth_increasefollowers_desc": "Increases max following hostages\nWorks as HOST ONLY! Default:3\nRequires Heist Restart",
 
-    "cth_hidehud_name": "Hide Cable Ties in HUD",
-    "cth_hidehud_desc": "Hides the number of ties shown in your hud, since you have infinite anyways\nDoes not sync to clients\nRequires Heist Restart"
+        "cth_hidehud_name": "Hide Cable Ties in HUD",
+        "cth_hidehud_desc": "Hides the number of ties shown in your hud, since you have infinite anyways\nDoes not sync to clients\nRequires Heist Restart"
 }

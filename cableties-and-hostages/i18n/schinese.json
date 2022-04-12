@@ -1,0 +1,16 @@
+{
+        "cth_title": "Cable Ties and Hostages",
+        "cth_desc": "更改Cable Ties and Hostages模组设置",
+
+        "cth_infiniteties_name": "无限绑带",
+        "cth_infiniteties_desc": "勾选后可以无限使用绑带\n使用绑带后不会消耗绑带数量\n重启劫案以应用更改",
+
+        "cth_numsync_name": "同步绑带数量",
+        "cth_numsync_desc": "将绑带数量同步到客机，客机看到你的绑带数量为8\n客机一般看到你的绑带数量通常在2到6之间\n重启劫案以应用更改",
+
+        "cth_increasefollowers_name": "增加人质跟随数量",
+        "cth_increasefollowers_desc": "增加同时跟随你的人质数量\n仅限主机生效！默认数量为:3\n重启劫案以应用更改",
+
+        "cth_hidehud_name": "在HUD中隐藏绑带数",
+        "cth_hidehud_desc": "在你的玩家界面中隐藏绑带数量显示，因为你拥有无限的绑带\n此效果不会同步到客机\n重启劫案以应用更改"
+}

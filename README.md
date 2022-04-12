@@ -30,15 +30,15 @@ To better accommodate pacifist stealth runs
   <summary><b>F.A.Q.</b></summary>
 
 **Q: Will this mark me as a cheater?**
-  
+
 A: No, it will not.
 
 **Q: Can this work if I'm not hosting?**
-  
+
 A: This mod does not work if you aren't hosting.
 
 **Q: Why did you make this mod if alternatives exist**
-  
+
 A: This mod provides customizability and an all-in-one 'solution' to the unnecessary challenge of clean gameplay
 
 </details>
@@ -47,8 +47,11 @@ A: This mod provides customizability and an all-in-one 'solution' to the unneces
   <summary><b>Localisation Credits</b></summary>
 
 **English**
-  
+
 * [mercu (me)](https://modworkshop.net/user/84118)
+
+**Chinese**
+* [Arknights](https://modworkshop.net/user/44255)
 
 Please submit localisations!
 </details>
@@ -74,7 +77,7 @@ Please submit localisations!
 
 ```
                    PAYDAY 2 Cable Ties and Hostages
-                    Copyright (C) 2021 theokrueger
+                    Copyright (C) 2022 theokrueger
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 2 as
