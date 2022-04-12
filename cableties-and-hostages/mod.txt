@@ -1,30 +1,30 @@
 {
-	"blt_version" : 2,
-	"name" : "Cable Ties and Hostages",
-	"author" : "mercu",
-	"description" : "infinite cableties more following hostages",
-	"version" : "2.2",
-	"image" : "icon.png",
-	"hooks" : [
-		{
-			"hook_id" : "lib/managers/playermanager",
-			"script_path" : "hooks/playermanager.lua"
-		},
-		{
-			"hook_id" : "lib/managers/hudmanagerpd2",
-			"script_path" : "hooks/hudmanagerpd2.lua"
-		},
-		{
-			"hook_id" : "lib/tweak_data/playertweakdata",
-			"script_path" : "hooks/playertweakdata.lua"
-		}
-	],
-	"updates" : [
-	{
-		"identifier" : "CTH",
-		"host" : {
-			"meta" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json"
-		}
-	}
-]
+        "blt_version" : 2,
+        "name" : "Cable Ties and Hostages",
+        "author" : "mercu",
+        "description" : "infinite cableties more following hostages",
+        "version" : "2.3",
+        "image" : "icon.png",
+        "hooks" : [
+                {
+                        "hook_id" : "lib/managers/playermanager",
+                        "script_path" : "hooks/playermanager.lua"
+                },
+                {
+                        "hook_id" : "lib/managers/hudmanagerpd2",
+                        "script_path" : "hooks/hudmanagerpd2.lua"
+                },
+                {
+                        "hook_id" : "lib/tweak_data/playertweakdata",
+                        "script_path" : "hooks/playertweakdata.lua"
+                }
+        ],
+        "updates" : [
+                {
+                        "identifier" : "CTH",
+                        "host" : {
+                                "meta" : "https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json"
+                        }
+                }
+        ]
 }

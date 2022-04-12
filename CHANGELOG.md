@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.3: 2022-04-11
+* Add Chinese localisation (thanks again [Arknights](https://modworkshop.net/user/44255)!!)
+* Nitpicked indentations (i <3 8space)
+
 ## v2.2: 2021-09-30
 * Fix single character typo preventing settings from showing in menu
 
