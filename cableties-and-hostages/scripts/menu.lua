@@ -19,7 +19,7 @@ Hooks:Add(
 
 -- menu callbacks
 Hooks:Add(
-        'MenuManagerInitialiwze',
+        'MenuManagerInitialize',
         'CTH_MenuManagerInitialize',
         function(menu)
                 MenuCallbackHandler.cth_upd = function(self, item)
