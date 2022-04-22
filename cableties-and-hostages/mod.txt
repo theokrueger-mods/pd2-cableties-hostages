@@ -1,7 +1,7 @@
 {
         "blt_version" : 2,
         "name" : "Cable Ties and Hostages",
-        "author" : "oruga",
+        "author" : "theokrueger",
         "description" : "infinite cableties more following hostages",
         "version" : "2.3",
         "image" : "icon.png",
